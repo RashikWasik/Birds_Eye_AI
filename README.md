@@ -11,3 +11,10 @@ After:
 
 <img width="1920" height="1080" alt="image (1)" src="https://github.com/user-attachments/assets/c61205b4-0192-4345-a326-c27f375ecefe" />
 
+_________________
+Tracking using BoT-SORT:
+
+https://github.com/user-attachments/assets/680b200b-5885-4833-b851-d7d2162c1ddc
+
+
+
