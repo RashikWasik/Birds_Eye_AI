@@ -1,4 +1,16 @@
 # https://huggingface.co/spaces/RashikWasik/BirdsEye_AI
+
+_________________
+## View Notebook
+
+GitHub may sometimes fail to render large `.ipynb` files.
+
+If that happens, you can view the notebook using nbviewer:
+
+https://nbviewer.org/
+
+Notebook link:
+https://github.com/RashikWasik/Birds_Eye_AI/blob/master/notebook327d0ecf7f.ipynb
 _________________
 ## Before:
 
