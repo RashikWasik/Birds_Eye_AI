@@ -7,10 +7,14 @@ GitHub may sometimes fail to render large `.ipynb` files.
 
 If that happens, you can view the notebook using nbviewer:
 
+1. Copy the notebook URL:
+https://github.com/RashikWasik/Birds_Eye_AI/blob/master/notebook327d0ecf7f.ipynb
+
+2. Paste it into:
 https://nbviewer.org/
 
-Notebook link:
-https://github.com/RashikWasik/Birds_Eye_AI/blob/master/notebook327d0ecf7f.ipynb
+This will allow you to view the notebook correctly in your browser.
+
 _________________
 ## Before:
 
